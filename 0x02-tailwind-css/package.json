@@ -26,7 +26,6 @@
     "picocolors": "^1.1.1",
     "picomatch": "^2.3.1",
     "source-map-js": "^1.2.1",
-    "tailwindcss": "^4.1.11",
     "tapable": "^2.2.2",
     "tar": "^7.4.3",
     "to-regex-range": "^5.0.1",
@@ -38,5 +37,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11"
+  }
 }
